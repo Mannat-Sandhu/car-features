@@ -22,3 +22,6 @@ It was collected and made available on Kaggle by Cooper Union, a private college
 - **Task 3:** the most important feature determining car’s price is  no of engine cylinders in a car.
 - **Task 4:** the average price for Bugatti is highest.
 - **Task 5:** inverse linear relationship between fuel efficiency and number of cylinders in a car; as no of cylinders increases the fuel efficiency decreases.
+
+## Dashboard
+<img width="1346" height="779" alt="image" src="https://github.com/user-attachments/assets/19f7b6b7-fa93-48e2-9b22-8e017708b70f" />
